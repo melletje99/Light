@@ -7,7 +7,7 @@
 <img src="docs/lbs.png" width="250">
 
 ### Third, when the user taps the screen, it goes from black to the chosen color and backward
-<img src="docs/wo.png" width="250">
+<kbd><img src="docs/wo.png" width="250"></kbd>
 
 ## Features Initial Version
 ### - The user can tap the screen to go from white to black and backwards
